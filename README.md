@@ -197,7 +197,7 @@ print(response.json())
 All configuration is managed through environment variables and `app/core/config.py`:
 
 - `GROQ_API_KEY`: Your Groq API key (required)
-- `GROQ_MODEL`: LLM model to use (default: llama-3.1-70b-versatile)
+- `GROQ_MODEL`: LLM model to use (default: llama-3.3-70b-versatile)
 - `GROQ_TEMPERATURE`: Temperature for response generation (default: 0.7)
 - `GROQ_MAX_TOKENS`: Maximum tokens in response (default: 1024)
 
