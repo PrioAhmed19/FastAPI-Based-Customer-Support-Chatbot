@@ -4,7 +4,7 @@ A fully functional AI-powered chatbot REST API built with FastAPI that provides 
 
 ## Features
 
-- 🤖 **AI-Powered Chatbot**: Uses Groq's LLM (llama-3.1-70b-versatile) for natural language understanding and generation
+- 🤖 **AI-Powered Chatbot**: Uses Groq's LLM (llama-3.3-70b-versatile) for natural language understanding and generation
 - 🛍️ **Product Intelligence**: Retrieves and analyzes product data from DummyJSON API
 - 💬 **Context-Aware Responses**: Understands user intent and provides relevant product information
 - 🚀 **Fast & Scalable**: Built with FastAPI for high performance
