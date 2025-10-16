@@ -1,6 +1,6 @@
 # Product Chatbot REST API
 
-A fully functional AI-powered chatbot REST API built with FastAPI that provides intelligent, human-like responses to customer queries about products using data from the DummyJSON Products API and Groq LLM.
+A fully functional AI-powered chatbot built with FastAPI that provides intelligent, human-like responses to customer queries about products using data from the DummyJSON Products API and Groq LLM.
 
 ## Features
 
