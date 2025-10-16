@@ -11,17 +11,7 @@ A fully functional AI-powered chatbot built with FastAPI that provides intellige
 - 📚 **Auto-Generated Documentation**: Interactive API docs with Swagger UI
 - 🔍 **Smart Search**: Can handle various query types (product search, price inquiries, ratings, categories)
 
-##Technology Stack
 
-Backend Framework: FastAPI
-
-AI Model: Groq LLM API (llama-3.3-70b-versatile)
-
-Data Source: DummyJSON Products API
-
-HTTP Client: HTTPX (async)
-
-Validation & Settings: Pydantic
 
 ## Project Structure
 
